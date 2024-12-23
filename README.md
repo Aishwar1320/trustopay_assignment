@@ -1,6 +1,6 @@
 # trustopay_assignment
 
-A new Flutter project.
+My assignment on Fetching Contract Data From Provided Api.
 
 ## Getting Started
 
